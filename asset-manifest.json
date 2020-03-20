@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16050289.chunk.css",
+    "main.js": "/static/js/main.64d4dfd0.chunk.js",
+    "main.js.map": "/static/js/main.64d4dfd0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a963a316.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a963a316.js.map",
+    "static/js/2.51e348ab.chunk.js": "/static/js/2.51e348ab.chunk.js",
+    "static/js/2.51e348ab.chunk.js.map": "/static/js/2.51e348ab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e3e2b45717ba28ab081b8ef575a0bb42.js": "/precache-manifest.e3e2b45717ba28ab081b8ef575a0bb42.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.16050289.chunk.css.map": "/static/css/main.16050289.chunk.css.map",
+    "static/js/2.51e348ab.chunk.js.LICENSE.txt": "/static/js/2.51e348ab.chunk.js.LICENSE.txt",
+    "static/media/wave-bot.png": "/static/media/wave-bot.6cd18bc0.png",
+    "static/media/wave-mid.png": "/static/media/wave-mid.ba75e0c9.png",
+    "static/media/wave-top.png": "/static/media/wave-top.05d52988.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a963a316.js",
+    "static/js/2.51e348ab.chunk.js",
+    "static/css/main.16050289.chunk.css",
+    "static/js/main.64d4dfd0.chunk.js"
+  ]
+}
